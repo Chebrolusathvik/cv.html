@@ -1,0 +1,39 @@
+
+    h1{color: red;}
+    hr{
+        color: whitesmoke;
+        width: 5%;
+        border-style: none;
+        border-top-style: dotted;
+        border-width:5px;
+        border-color: grey;
+
+    
+    }
+    img:hover{
+        background-color: lightpink;
+    }
+    body{
+        background-color: lightyellow;
+    }
+    .earth{
+        background-color: black;
+    }
+    .industrial{
+        background-color:violet;
+    }
+    .agriculture{
+        background-color: black;
+    }
+    .deforest{
+        background-color: violet;
+    }
+    .loop{
+        background-color: black;
+    }
+    h4{
+        background-color: violet;
+    }
+    h3{
+        background-color: black;
+    }
