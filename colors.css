@@ -1,0 +1,64 @@
+
+    h1{color: red;}
+    hr{
+        color: whitesmoke;
+        width: 5%;
+        border-style: none;
+        border-top-style: dotted;
+        border-width:5px;
+        border-color: grey;
+
+    
+    }
+    img:hover{
+        background-color: lightpink;
+    }
+    body{
+        background-color: lightyellow;
+        color: tomato;
+    }
+    .earth{
+        background-color: black;
+
+    }
+    .industrial{
+        background-color:violet;
+    }
+    .agriculture{
+        background-color: black;
+        width: 900px;
+        height: auto;
+    }
+
+    .deforest{
+        background-color: violet;
+        width: 900px;
+        height: auto;
+    }
+    .loop{
+        background-color: black;
+    
+    }
+    h4{
+        background-color: violet;
+    }
+
+    h1{
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 40px;
+    }
+    h3{
+        font-family: 'Merriweather', serif;
+        font-size: 20px;
+        color: limegreen;
+    }
+    h2{
+        font-family: 'Galada', cursive;
+        font-size: 40px;
+        color: chocolate;
+
+    }
+    body{
+        font-family: 'Alegreya Sans SC', sans-serif;
+        font-size: 20px;
+    }
